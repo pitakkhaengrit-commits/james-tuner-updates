@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/pitak2540/james-tuner-updates/releases/latest/download/James-Tuner-Setup.exe",
+  "version": "0.3.5",
+  "url": "https://github.com/pitakkhaengrit-commits/james-tuner-updates/releases/latest/download/James-Tuner-Setup.exe",
   "notes": "เพิ่มปุ่ม ON/OFF ตาราง flag, กราฟ 3D สไตล์ TunerPro RT, ระบบอัพเดทในตัว",
   "mandatory": false
 }
