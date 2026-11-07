@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "url": "https://github.com/pitakkhaengrit-commits/james-tuner-updates/raw/main/James-Tuner-Setup.exe",
-  "notes": "ธีมแดง Indo Flasher + ฟีเจอร์เดิมครบ",
+  "notes": "x64 ตัวติดตั้งเดียว · ธีมแดง + แก้ข้อความแฟลชสำเร็จ/เด้งปิดกุญแจ",
   "mandatory": false
 }
