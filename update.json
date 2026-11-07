@@ -1,6 +1,6 @@
 {
-  "version": "0.3.5",
-  "url": "https://github.com/pitakkhaengrit-commits/james-tuner-updates/releases/latest/download/James-Tuner-Setup.exe",
-  "notes": "เพิ่มปุ่ม ON/OFF ตาราง flag, กราฟ 3D สไตล์ TunerPro RT, ระบบอัพเดทในตัว",
+  "version": "0.7.0",
+  "url": "https://github.com/pitakkhaengrit-commits/james-tuner-updates/raw/main/James-Tuner-Setup.exe",
+  "notes": "ธีมแดง Indo Flasher + ฟีเจอร์เดิมครบ",
   "mandatory": false
 }
